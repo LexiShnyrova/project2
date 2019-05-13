@@ -1,1 +1,3 @@
-Hello World and welcome to CS246, the worst class ever!
+
+Hello World and welcome to CS246, the best class ever!
+
